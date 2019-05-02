@@ -65,7 +65,11 @@ class Admin
      * @var string
      */
     public static $eyeIcon = '//span[@class="form-password-input__toggle form-password-input__toggle-visibility"]';
-
+    /**
+     * thêm value này để tạm dừng màn hình
+     * @var string
+     */
+    public static $myLifeHyperlink = '//a[@class="masterbar__item"]';
     /**
      * Declare UI map for this page here. CSS or XPath allowed.
      * public static $usernameField = '#username';

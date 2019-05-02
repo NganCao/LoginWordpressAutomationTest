@@ -10,7 +10,7 @@ class LI_21Cest
      * @throws Exception
      */
 
-    public function tryToTest(AcceptanceTester $I, $scenario)
+    public function LI_21(AcceptanceTester $I, $scenario)
     {
         $I = new LoginAdmin($scenario);
         $I->keyTab('sodumivo@linx.email');

@@ -7,6 +7,7 @@ class LI_19Cest
      * Check enter "Password" that type of password change *
      * @param AcceptanceTester $I
      * @param $scenario
+     * @throws Exception
      */
 
     // tests

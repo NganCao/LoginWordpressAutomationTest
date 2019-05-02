@@ -11,7 +11,7 @@ class LI_22Cest
      */
 
     // tests
-    public function tryToTest(AcceptanceTester $I, $scenario)
+    public function LI_22(AcceptanceTester $I, $scenario)
     {
         $I = new LoginAdmin($scenario);
         $I->keyEnter('sodumivo@linx.email', 'suduxx12');
