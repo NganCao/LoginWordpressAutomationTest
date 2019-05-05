@@ -22,6 +22,7 @@ class Admin extends \AcceptanceTester
         $I->waitForElementVisible(LoginAdmin::$passwordField, 5);
         $I->fillField(LoginAdmin::$passwordField, $password);
         $I->click(LoginAdmin::$loginButton);
+        $I->waitForText(LoginAdmin::$waitForText,5);
         $I->comment("Login Succes!");
     }
 

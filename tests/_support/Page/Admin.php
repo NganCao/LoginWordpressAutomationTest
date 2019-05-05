@@ -71,6 +71,12 @@ class Admin
      */
     public static $myLifeHyperlink = '//a[@class="masterbar__item"]';
     /**
+     * value for WaitForText
+     * @var string
+     */
+    public static $waitForText = 'Follow Site';
+
+    /**
      * Declare UI map for this page here. CSS or XPath allowed.
      * public static $usernameField = '#username';
      * public static $formSubmitButton = "#mainForm input[type=submit]";

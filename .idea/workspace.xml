@@ -2,28 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="45672781-1556-430e-abd7-b7ecf8237d2e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/php-test-framework.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordPress/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/LoginWordpressTest.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LoginWordpressTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LoginWordpressTest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LoginWordpressTest.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_output/LI_32Cest.LI_32.fail.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/LI_32Cest.LI_32.fail.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_output/LI_32Cest.LI_32.fail.png" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_output/LI_32Cest.LI_32.fail.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/_output/failed" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/_support/Page/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Page/Admin.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/LI_19Cest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/LI_19Cest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/LI_21Cest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/LI_21Cest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/LI_22Cest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/LI_22Cest.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/acceptance/LI_32Cest.php" beforeDir="false" afterPath="$PROJECT_DIR$/tests/acceptance/LI_32Cest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,92 +17,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_19Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_21Cest.php">
+        <entry file="file://$PROJECT_DIR$/tests/_support/Page/Admin.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_30Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="44" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_31Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="46" selection-start-line="6" selection-start-column="46" selection-end-line="6" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_22Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_33Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_34Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_32Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_24Cest.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+            <state relative-caret-position="264">
+              <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -174,15 +82,15 @@
         <option value="$PROJECT_DIR$/tests/acceptance/LI_17Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_18Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_25Cest.php" />
-        <option value="$PROJECT_DIR$/tests/_support/Page/Admin.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_23Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_19Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_34Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_33Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_21Cest.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_22Cest.php" />
-        <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php" />
         <option value="$PROJECT_DIR$/tests/acceptance/LI_32Cest.php" />
+        <option value="$PROJECT_DIR$/tests/_support/Page/Admin.php" />
+        <option value="$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php" />
       </list>
     </option>
   </component>
@@ -308,6 +216,14 @@
               <item name="LoginWordpressAutomationTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="LoginWordpressAutomationTest" type="462c0819:PsiDirectoryNode" />
               <item name="tests" type="462c0819:PsiDirectoryNode" />
+              <item name="_support" type="462c0819:PsiDirectoryNode" />
+              <item name="Step" type="462c0819:PsiDirectoryNode" />
+              <item name="Acceptance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LoginWordpressAutomationTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LoginWordpressAutomationTest" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
               <item name="acceptance" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -353,17 +269,18 @@
       <workItem from="1556102450926" duration="12121000" />
       <workItem from="1556277233169" duration="4741000" />
       <workItem from="1556770878668" duration="97000" />
+      <workItem from="1557019777378" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16959000" />
+    <option name="totallyTimeSpent" value="17810000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19667171" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19969743" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -558,13 +475,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/_support/Page/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
-          <caret line="68" column="42" selection-start-line="68" selection-start-column="42" selection-end-line="68" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_18Cest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -579,45 +489,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_24Cest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_19Cest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_34Cest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_33Cest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_22Cest.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -642,10 +517,59 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_24Cest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="5" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_32Cest.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_34Cest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_33Cest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="41" selection-start-line="6" selection-start-column="41" selection-end-line="6" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/acceptance/LI_22Cest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="25" selection-start-line="13" selection-start-column="25" selection-end-line="13" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/codeception.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="21" lean-forward="true" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_support/Page/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="73" column="28" selection-start-line="73" selection-start-column="28" selection-end-line="73" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/_support/Step/Acceptance/Admin.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="24" column="50" selection-start-line="24" selection-start-column="50" selection-end-line="24" selection-end-column="50" />
         </state>
       </provider>
     </entry>
